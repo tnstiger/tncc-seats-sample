@@ -1,0 +1,22 @@
+{
+  "statusColor": {
+    "empty": "#fff",
+    "1": "#B2B2B2",
+    "2": "#FFF",
+    "3": "#FFD7D7"
+  },
+  "seats": [
+    {
+      "seat": 1,
+      "name": "郭信良",
+      "party": "無",
+      "status": 1
+    },
+    {
+      "seat": 2,
+      "name": "林炳利",
+      "party": "無",
+      "status": 3
+    }
+  ]
+}
